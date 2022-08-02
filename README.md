@@ -8,6 +8,8 @@ The project is a standard Maven project. To run it from the command line,
 type `mvnw spring-boot:run` (Windows), or `./mvnw spring-boot:run` (Mac & Linux), then open
 http://localhost:8080 in your browser.
 
+- Change the configuration in application.properties for local DB access.
+
 
 ## Project planning (starts 30/8/22)
 - Create web with components

@@ -79,7 +79,6 @@ public class HolidayFetch {
             Date dtendDate = dateFormat.parse(dtendString);
 
             holidays.setDtstart(dtstartDate);
-
             holidays.setDtend(dtendDate);
 
             HolidayList.add(holidays);
